@@ -1,0 +1,15 @@
+C:\Users\alexa\source\repos\Lommeregner1\Lommeregner1\bin\Debug\Lommeregner1.exe.config
+C:\Users\alexa\source\repos\Lommeregner1\Lommeregner1\bin\Debug\Lommeregner1.exe
+C:\Users\alexa\source\repos\Lommeregner1\Lommeregner1\bin\Debug\Lommeregner1.pdb
+C:\Users\alexa\source\repos\Lommeregner1\Lommeregner1\obj\Debug\Lommeregner1.csprojAssemblyReference.cache
+C:\Users\alexa\source\repos\Lommeregner1\Lommeregner1\obj\Debug\App.g.cs
+C:\Users\alexa\source\repos\Lommeregner1\Lommeregner1\obj\Debug\Lommeregner1_MarkupCompile.cache
+C:\Users\alexa\source\repos\Lommeregner1\Lommeregner1\obj\Debug\Lommeregner1_MarkupCompile.lref
+C:\Users\alexa\source\repos\Lommeregner1\Lommeregner1\obj\Debug\MainWindow.baml
+C:\Users\alexa\source\repos\Lommeregner1\Lommeregner1\obj\Debug\Lommeregner1.g.resources
+C:\Users\alexa\source\repos\Lommeregner1\Lommeregner1\obj\Debug\Lommeregner1.Properties.Resources.resources
+C:\Users\alexa\source\repos\Lommeregner1\Lommeregner1\obj\Debug\Lommeregner1.csproj.GenerateResource.cache
+C:\Users\alexa\source\repos\Lommeregner1\Lommeregner1\obj\Debug\Lommeregner1.exe
+C:\Users\alexa\source\repos\Lommeregner1\Lommeregner1\obj\Debug\Lommeregner1.pdb
+C:\Users\alexa\source\repos\Lommeregner1\Lommeregner1\obj\Debug\Lommeregner.g.cs
+C:\Users\alexa\source\repos\Lommeregner1\Lommeregner1\obj\Debug\Lommeregner.baml
