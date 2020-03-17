@@ -1,0 +1,67 @@
+namespace Lommeregner1
+{
+    public partial class MainWindow : Window
+    {
+        public MainWindow()
+        {
+            InitializeComponent();
+        }
+
+        private void btnPlus_Click(object sender, RoutedEventArgs e)
+        {
+            double firstInput = double.Parse(FirstInput.Text);
+            double secondInput = double.Parse(SecondInput.Text);
+            double result = firstInput + secondInput;
+            Result.Text = result + "";
+        }
+
+        private void btnMinus_Click(object sender, RoutedEventArgs e)
+        {
+            double firstInput = double.Parse(FirstInput.Text);
+            double secondInput = double.Parse(SecondInput.Text);
+            double result = firstInput - secondInput;
+            Result.Text = result + "";
+        }
+
+        private void btnMultiply_Click(object sender, RoutedEventArgs e)
+        {
+            double firstInput = double.Parse(FirstInput.Text);
+            double secondInput = double.Parse(SecondInput.Text);
+            double result = firstInput * secondInput;
+            Result.Text = result + "";
+        }
+
+        private void btnDivision_Click(object sender, RoutedEventArgs e)
+        {
+            double firstInput = double.Parse(FirstInput.Text);
+            double secondInput = double.Parse(SecondInput.Text);
+            double result = firstInput / secondInput;
+            Result.Text = result + "";
+        }
+
+        private void btnCirkelAreal_Click(object sender, RoutedEventArgs e)
+        {
+            double firstInput = double.Parse(FirstInput.Text);
+            double secondInput = double.Parse(SecondInput.Text);
+            double result = firstInput * secondInput * 3.14;
+            Result.Text = result + "";
+        }
+
+        private void btnFirkantAreal_Click(object sender, RoutedEventArgs e)
+        {
+            double firstInput = double.Parse(FirstInput.Text);
+            double secondInput = double.Parse(SecondInput.Text);
+            double result = firstInput * secondInput;
+            Result.Text = result + "";
+        }
+
+        private void btnTrapezAreal_Click(object sender, RoutedEventArgs e)
+        {
+            double firstInput = double.Parse(FirstInput.Text);
+            double secondInput = double.Parse(SecondInput.Text);
+            double thirdInput = double.Parse(ThirdInput.Text);
+            double result = 0.5 * (firstInput + secondInput) * thirdInput;
+            Result.Text = result + "";
+        }
+    }
+}
