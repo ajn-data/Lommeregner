@@ -1,0 +1,15 @@
+C:\Users\alexa\source\repos\lommeregner\lommeregner\bin\Debug\lommeregner.exe.config
+C:\Users\alexa\source\repos\lommeregner\lommeregner\bin\Debug\lommeregner.exe
+C:\Users\alexa\source\repos\lommeregner\lommeregner\bin\Debug\lommeregner.pdb
+C:\Users\alexa\source\repos\lommeregner\lommeregner\obj\Debug\lommeregner.csprojAssemblyReference.cache
+C:\Users\alexa\source\repos\lommeregner\lommeregner\obj\Debug\MainWindow.g.cs
+C:\Users\alexa\source\repos\lommeregner\lommeregner\obj\Debug\App.g.cs
+C:\Users\alexa\source\repos\lommeregner\lommeregner\obj\Debug\lommeregner_MarkupCompile.cache
+C:\Users\alexa\source\repos\lommeregner\lommeregner\obj\Debug\lommeregner_MarkupCompile.lref
+C:\Users\alexa\source\repos\lommeregner\lommeregner\obj\Debug\MainWindow.baml
+C:\Users\alexa\source\repos\lommeregner\lommeregner\obj\Debug\lommeregner.g.resources
+C:\Users\alexa\source\repos\lommeregner\lommeregner\obj\Debug\lommeregner.Properties.Resources.resources
+C:\Users\alexa\source\repos\lommeregner\lommeregner\obj\Debug\lommeregner.csproj.GenerateResource.cache
+C:\Users\alexa\source\repos\lommeregner\lommeregner\obj\Debug\lommeregner.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\lommeregner\lommeregner\obj\Debug\lommeregner.exe
+C:\Users\alexa\source\repos\lommeregner\lommeregner\obj\Debug\lommeregner.pdb
